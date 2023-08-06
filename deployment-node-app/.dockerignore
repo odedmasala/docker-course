@@ -1,0 +1,4 @@
+dockerfile
+node_modules
+*.env
+*.pem
